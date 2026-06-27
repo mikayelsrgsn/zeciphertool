@@ -22,4 +22,5 @@
 ### Warnings
   - There are specific instructions for customkeys use "help-customkeys" before making one
   - Emojis can't be encoded/decoded unless you add a custom key
-  - Use setkey before using encode or decode 
+  - Use setkey before using encode or decode
+  - Main.py will error if ran in a website environment

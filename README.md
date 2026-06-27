@@ -31,3 +31,4 @@
   - Emojis can't be encoded/decoded unless you add a custom key
   - Use setkey before using encode or decode
   - Some symbols might not be accepted because I used AI to make keys.json to save time
+  - If you run desktop-ide in an online compiler it'll glitch out because of "import os"

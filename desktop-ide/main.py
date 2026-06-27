@@ -131,7 +131,7 @@ while True:
         with open(keysJson, "r") as f:
             jsondata = json.load(f)
             for key in jsondata:
-                print(key)
+                print(f" - {key} | index: {jsondata[key]['index']}")
 
     elif cmd == "help-customkeys":
         print("CustomKey manual")

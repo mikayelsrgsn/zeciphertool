@@ -7,7 +7,9 @@
   - decode
   - setkey
   - addkey
+  - listkeys
   - help-customkeys
+  - help (General info on all commands)
 
 ### Preset keys
   - let (only letters)
@@ -24,3 +26,4 @@
   - There are specific instructions for customkeys use "help-customkeys" before making one
   - Emojis can't be encoded/decoded unless you add a custom key
   - Use setkey before using encode or decode
+  - Some symbols might not be accepted because I used AI to make keys.json to save time

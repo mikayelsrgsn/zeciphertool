@@ -3,8 +3,8 @@
 ### Made by Mikayel Sargsyan.
 
 ### Software/websites to run code
-1. Desktop IDE: VS Code, Sublime, Eclipse, PyDev, and etc.
-2. Online compiler: OneCompiler (Personal fav, no-login), Programiz (free, limited), CodeChef (no-login, decent)
+1. Desktop IDE: **VS Code** (Personal best), **Sublime**, **Eclipse**, **PyDev**, and etc.
+2. Online compiler: **OneCompiler** (Personal fav, no-login), **Programiz** (free, limited), **CodeChef** (no-login, decent)
 
 ### Commands
   - encode
